@@ -1,0 +1,33 @@
+.titleconteudo {
+    font-size: 50px;
+    background-color:rgb(50, 75, 7);
+    border-radius: 30px;
+    padding-bottom: 50px;
+}
+.content {
+    color: rgb(177, 177, 119);
+    background-color: rgb(50, 75, 7);
+    border-radius: 30px;
+   
+    
+    
+}
+p{
+    padding-bottom: 50px;
+}
+ 
+
+.img{
+    width: 300px;
+    
+}
+ 
+.card {
+    display: flex;
+    justify-content: center;
+}
+
+h5{
+    font-size: 50px;
+    color: darkgreen;
+}
